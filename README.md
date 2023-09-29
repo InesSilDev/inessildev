@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InesSilDev
-- 👀 I’m interested in becoming a Full Stack DEV
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning ...
 - 📫 How to reach me : valinoines@gmail.com
 
